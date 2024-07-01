@@ -57,3 +57,7 @@ I believe in open source software and open science. All of my major software pro
   [View on GitHub](https://github.com/morganrivers/standard_protocol_to_use_git)
 
 ### Papers I'm currently working on
+- **Draft paper on Whale Translation**
+  Communicating with whales would be really interesting, and potentially very important for the whales to communicate their needs. We might learn something from Whalekind too. I've got an idea to try to decode whale language using pretrained large language models, which I wrote up in this short document.
+[View on GitHub](https://github.com/morganrivers/whale_translation/blob/previews/master/paper.pdf)
+
