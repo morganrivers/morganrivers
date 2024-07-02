@@ -60,4 +60,7 @@ I believe in open source software and open science. All of my major software pro
 - **Draft paper on Whale Translation**
   Communicating with whales would be really interesting, and potentially very important for the whales to communicate their needs. We might learn something from Whalekind too. I've got an idea to try to decode whale language using pretrained large language models, which I wrote up in this short document.
 [View on GitHub](https://github.com/morganrivers/whale_translation/blob/previews/master/paper.pdf)
+- **Draft paper on AI Consciousness**
+  It seems like everyone is confused about consciousness, and AI consciousness has become ever more relevant with the recent AI advancements. This paper is an attempt to add some rigour into the question of AI consciousness by running [the ACT test](https://ceur-ws.org/Vol-2287/short2.pdf) from [Susan Schneider](https://en.wikipedia.org/wiki/Susan_Schneider) against current LLM architectures, and introduces a training methodology by which such architectures might be expected to improve their performance on this test.  
+[View on GitHub](https://github.com/morganrivers/consciousness_paper/blob/previews/master/paper.pdf)
 
