@@ -44,6 +44,10 @@ I believe in open source software and open science. All of my major software pro
   Updates the system timezone and the color temperature of the display based on the geolocation of the current IP address. The script is designed to be used with NetworkManager's dispatcher to be executed whenever a network connection goes up.  
   [View on GitHub](https://github.com/morganrivers/timezone_and_flux_from_ip)
 
+- **simple_todolist**
+  The simplest ToDo list program you can imagine, that's why it's so great.
+  [View on GitHub](https://github.com/morganrivers/simple_todolist)
+
 - **bash_history_improved**  
   This is my configuration so that bash history actually works! Infinite number of line storage, test to see everything is set up correctly, does not occasionally delete back to 500 lines. [NOTE: I now use fish which (mostly) resolves all of those issues, so this repo may be a bit out of date]  
   [View on GitHub](https://github.com/morganrivers/bash_history_improved)
