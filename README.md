@@ -26,6 +26,10 @@ I believe in open source software and open science. All of my major software pro
   A general linear statistical model of crop yields to evaluate the effect of loss of industrial capacity, including chemical nitrogen production, tractors, and powered irrigation on global crop yields. This is the only repository on the list in which I was not the primary author, which in this case is Jessica Morsdorf, as it was used for her master's thesis. However, I contributed the data processing and heavily advised the process, as she had not set up a code repository before. The published paper is [here](https://pubmed.ncbi.nlm.nih.gov/38223898/). The full text is available on the [ALLFED](https://allfed.info) website.  
   [View on GitHub](https://github.com/allfed/LosingIndustryCropYields)
 
+- **ImportReliantIrrigation**  
+  A secondary repository used to generate data for `LosingIndustryCropYields`. Used to calculate the total global area that is dependent on electricity or diesel power. I have not been able to find any other estimates for this, so I hope this repository is useful to other researchers.
+  [[View on GitHub]](https://github.com/allfed/ImportReliantIrrigation)
+
 ### Linux Software Projects
 
 - **ClockifyAutomation**  
