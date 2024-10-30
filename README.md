@@ -1,9 +1,9 @@
 # Hi there!
-```💌 : dr6582fu [at] zedat [dot] fu-berlin [dot] de```
+```💌 : daniel [dot] rivers [at] uni-potsdam [dot] de```
 
-I'm Morgan Rivers, a student located in Berlin, Germany. Right now I am a master's student in physics at Freie Universität Berlin. I'm interested in intentional communities, science and technology, and global catastrophic risks. You can read more about my engineering projects [here](Portfolio.pdf).
+I'm Morgan Rivers, a student located in Berlin, Germany. Right now I am a master's student in climate and sustainability studies at Potsdam Universität. I'm also interested in philosophy, intentional communities, science and technology, and global catastrophic risks. 
 
-Also, check out my [website](https://morganrivers.com/) and [Google Scholar profile](https://scholar.google.com/citations?user=nXYa_QEAAAAJ) for publications and preprints.
+In addition to the repositories below, you can check out my [website](https://morganrivers.com/) and [Google Scholar profile](https://scholar.google.com/citations?user=nXYa_QEAAAAJ) for publications and preprints.
 
 You can find code repositories which support my research, and my standalone software projects (mostly focused on accomplishing various tasks in linux), and the papers that I'm currently working on below:
 
