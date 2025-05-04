@@ -65,7 +65,12 @@ I believe in open source software and open science. All of my major software pro
   This tutorial will walk you through a standard Git workflow, which includes creating a new branch, checking its status, adding changes, committing them, and finally, pushing them to the remote repository. The workflow also includes how to prepare for a pull request. This is basic knowledge that seems to currently not be widespread and tutorials don't really seem to focus on the key basics. Professional software engineers really need to learn this kind of thing if they haven't already, so I made a little tutorial.  
   [View on GitHub](https://github.com/morganrivers/standard_protocol_to_use_git)
 
-### Papers I'm currently working on
+### Miscellaneous
+ - **StoryWriter**
+   Science fiction story generation system that takes flashcards and uses them to generate interesting short stories that teach you the concepts. Using fluid dynamics and oceanography concepts as source material, it creates stories that are both entertaining and educational
+  [View on Github](https://github.com/morganrivers/storywriter)
+
+### Draft Papers (On hold)
 - **Draft paper on Whale Translation**
   Communicating with whales would be really interesting, and potentially very important for the whales to communicate their needs. We might learn something from Whalekind too. I've got an idea to try to decode whale language using pretrained large language models, which I wrote up in this short document.
 [View on GitHub](https://github.com/morganrivers/whale_translation/blob/previews/master/paper.pdf)
