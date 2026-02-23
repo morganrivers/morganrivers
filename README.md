@@ -1,5 +1,5 @@
 # Hi there!
-```💌 : daniel [dot] rivers [at] uni-potsdam [dot] de```
+```💌 : rivers [at] uni-potsdam [dot] de```
 
 I'm Morgan Rivers, a student located in Berlin, Germany. Right now I am a master's student in climate and sustainability studies at Potsdam Universität. I'm also interested in philosophy, intentional communities, science and technology, and global catastrophic risks. 
 
