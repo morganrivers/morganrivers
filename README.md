@@ -10,7 +10,9 @@ You can find code repositories which support my research, and my standalone soft
 ### Research Code Repositories
 
 I believe in open source software and open science. All of my major software projects I've developed past 2019 are available below.
-
+- **Forecasting International Aid Effectiveness**
+  My completed thesis project. I trained several machine learning models to forecast the effectiveness of international aid, including overall success rating, 14 separate binary outcome tags, and cost-effectiveness. I also evaluated LLM forecasting ability and put an emphasis on detecting temporal leakage. The codebase is here: [View on GitHub](https://github.com/morganrivers/forecasting_thesis_code). The database is here:  [View on GitHub](https://github.com/morganrivers/iati_extraction).
+ 
 - **ALLFED Integrated Model**  
   An integrated food supply model for global trade and resilient food adaptations in nuclear winter. It has been used to advise various governmental and non-governmental organizations on preparations and cost-effectiveness estimates, as well as guiding research and prioritization at [ALLFED](https://allfed.info). See the latest preprint [here](https://allfed.info/images/pdfs/Preprint%20V2.0%20Integrated%20assessment%20ALLFED.docx.pdf).  
   [View on GitHub](https://github.com/allfed/allfed-integrated-model)
